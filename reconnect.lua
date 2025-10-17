@@ -12,7 +12,7 @@ local JOB_ID = tostring(game.JobId or "")
 local PLAYER_NAME = LOCAL_PLAYER and LOCAL_PLAYER.Name or "Unknown"
 
 -- ======= CẤU HÌNH =======
-local WEBHOOK_URL = "https://your-webhook-url-here" -- <-- THAY Ở ĐÂY
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1428597330935808012/yIdgr2ZcuEX-Ru8226nThkwrgbNU0qiBGl2GayVF6yNbiwhpKiAkADLZzGOaMF0MR9ID" -- <-- THAY Ở ĐÂY
 local DEBOUNCE_SECONDS = 30
 local INCLUDE_GAME_INFO = true
 -- ========================
